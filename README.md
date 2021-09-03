@@ -6,7 +6,7 @@
   GitHub Explorer
 </h3>
 
-<p align="center">Explore Repositórios do GitHub</p>
+<p align="center">Explore repositórios do GitHub</p>
 
 <p align="center">
   <a href="#como-executar-o-projeto">Como executar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
